@@ -81,7 +81,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyaroslin175-commits&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyaroslin175&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
