@@ -122,7 +122,7 @@ I’m open to working on:
 
 📧 Email:amulyaroslin175@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/amulya-m-869686290    
-🌐 Portfolio: YOUR_PORTFOLIO_URL  
+
 
 ---
 
