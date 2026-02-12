@@ -52,11 +52,6 @@ Love building efficient applications and exploring AI/ML integration.
 • JAVA SCRIPT
  
 
-### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
-
 ### 💅 Frontend
 • React  
 • HTML / CSS  
